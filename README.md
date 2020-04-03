@@ -7,7 +7,7 @@
 
 ## Introduction
 
-In this lab, we are going to practice creating Object Oriented classes and instances using JavaScript's `class` keyword. We are also going to use JavaScript's class `constructor` to instantiate data into a class. In other words, we're going to create a class, and then put some data in it.
+In this lab, we are going to prac tice creating Object Oriented classes and instances using JavaScript's `class` keyword. We are also going to use JavaScript's class `constructor` to instantiate data into a class. In other words, we're going to create a class, and then put some data in it.
 
 ## Create a class in JavaScript using the class keyword
 
